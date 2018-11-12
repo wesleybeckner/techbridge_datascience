@@ -1,6 +1,6 @@
 # techbridge_datascience
 
-Run me in the browser! [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/wesleybeckner/techbridge_datascience/master)
+Run me in the browser! [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wesleybeckner/techbridge_datascience/master)
 
 Interactive datascience lessons for the Techbridge Girls program
 
