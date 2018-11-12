@@ -6,6 +6,8 @@ Interactive datascience lessons for the Techbridge Girls program
 
 You can learn more about the underlying algorithms at Google AI's [Teaching Machines to Draw](https://ai.googleblog.com/2017/04/teaching-machines-to-draw.html) and Dan Macnish's [Draw This](https://danmacnish.com/2018/07/01/draw-this/)
 
+Douglas Eck also gave a great [talk](https://www.youtube.com/watch?v=2FAjQ6R_bf0) on the Magenta project at Google I/O '17
+
 ## Install
 
 You can setup the environment to run these lessons locally using [conda](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file) and the envrionment.yml file:
